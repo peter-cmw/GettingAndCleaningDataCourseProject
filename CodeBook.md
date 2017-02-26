@@ -7,8 +7,8 @@ Version 1.0 - http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+
 
 #Identifiers
 
-   "subject" - id of subject
-   "activity" - id of activity - one of WALKING WALKING_UPSTAIRS WALKING_DOWNSTAIRS SITTING STANDING LAYING
+   	"subject" - id of subject
+   	"activity" - id of activity - one of WALKING WALKING_UPSTAIRS WALKING_DOWNSTAIRS SITTING STANDING LAYING
 
 #Measurements 
 
