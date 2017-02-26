@@ -19,7 +19,7 @@ Test and Train part of the filtered initial dataset were merged together for pro
 
 Labels of activities were used instead of activity ids.
 
-Final dataset contains measurements averaged per subject per activity from.
+Final dataset contains measurements averaged per subject per activity.
 
 #Identifiers
    	"subject" - id of subject
